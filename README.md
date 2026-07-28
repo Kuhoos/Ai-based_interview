@@ -50,7 +50,7 @@ The AI-Powered Interview Analytics & Emotion Detection System is a real-time moc
 
 ## Repository
 
-GitHub:  https://github.com/Kuhoos/Ai-based_interview]
+GitHub:  https://github.com/Kuhoos/Ai-based_interview
 
 ## Author
 
